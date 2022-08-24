@@ -1,4 +1,4 @@
-<h1>WindBNB Challenge</h1>
+<h1>Quiz Challenge</h1>
 <img src="./src/assets/img/website.png" alt="website logo"/>
 
 <br>
